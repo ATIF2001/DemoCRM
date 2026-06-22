@@ -6,6 +6,10 @@
   <p>A comprehensive CRM solution designed for enterprise-level customer engagement, sales tracking, and business process automation.</p>
 </div>
 
+Login:
+Username: admin
+Password: JoveraDemo2026!
+
 [![License](https://img.shields.io/badge/license-LGPL-green.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.12+-blue.svg)](https://python.org)
 [![Django](https://img.shields.io/badge/django-5.2+-green.svg)](https://djangoproject.com)
