@@ -1,10 +1,4 @@
-# Horilla CRM
 
-<div align="center">
-  <img src="static/favicon.ico" alt="Horilla CRM Logo" width="64" height="64">
-  <h3>Enterprise Customer Relationship Management System</h3>
-  <p>A comprehensive CRM solution designed for enterprise-level customer engagement, sales tracking, and business process automation.</p>
-</div>
 
 Login:
 Username: admin
