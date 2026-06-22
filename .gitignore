@@ -1,0 +1,22 @@
+# Python packages / environments
+venv/
+.venv/
+env/
+ENV/
+site-packages/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Dependency/build output
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Django/local files
+db.sqlite3
+media/
+staticfiles/
+*.log
+.env
